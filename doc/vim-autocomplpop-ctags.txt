@@ -14,40 +14,11 @@ License                                        |vim-autocomplpop-ctags-license|
 
 ===============================================================================
 INSTALL                                        *vim-autocomplpop-ctags-install*
-
-Vim packages (Vim 8, Neovim)
 >
     mkdir -p ~/.vim/pack/lucerion/start
     cd ~/.vim/pack/lucerion/start
     git clone https://github.com/lucerion/vim-autocomplpop-ctags
 <
-vim-plug                                 https://github.com/junegunn/vim-plug
->
-    Plug 'lucerion/vim-autocomplpop-ctags'
-<
-Vundle                                https://github.com/VundleVim/Vundle.vim
->
-    Plugin 'lucerion/vim-autocomplpop-ctags'
-<
-Pathogen                                https://github.com/tpope/vim-pathogen
->
-    cd ~/.vim/bundle
-    git clone https://github.com/lucerion/vim-autocomplpop-ctags
-<
-dein.vim                                   https://github.com/Shougo/dein.vim
->
-    call dein#add('lucerion/vim-autocomplpop-ctags')
-<
-NeoBundle                             https://github.com/Shougo/neobundle.vim
->
-    NeoBundle 'lucerion/vim-autocomplpop-ctags'
-<
-Manual
->
-    git clone https://github.com/lucerion/vim-autocomplpop-ctags
-<
-    copy all of the files into your ~/.vim directory
-
 ===============================================================================
 CHANGELOG                                              *vim-executor-changelog*
 
